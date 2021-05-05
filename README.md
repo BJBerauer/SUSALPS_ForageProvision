@@ -11,6 +11,3 @@ Corresponding author:	Bernd J. Berauer | bjberauer@gmail.com
 Journal:	Agronomy
 
 Submitted:	03-19-2021 | Accepted: 05-04-2021
-
-_____________________
-This repository will be made public available with potential acceptance

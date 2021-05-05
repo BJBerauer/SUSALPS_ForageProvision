@@ -2,15 +2,15 @@
 
 This repository is a data repository for:
 
-Stability of forage provision of montane pastures depends on land-use intensity under future climatic uncertainty
+High land-use intensity diminishes stability of forage provi-sion of mountain pastures under future climate variability
 
-Authors	Bernd J. Berauer , Peter A. Wilfahrt , Max A. Schuchardt , Marcus Zistl-Schlingmann , Anne Schucknecht , Anke Jentsch 
+Authors:	Bernd J. Berauer , Peter A. Wilfahrt , Max A. Schuchardt , Marcus Schlingmann , Anne Schucknecht , Anke Jentsch 
 
-Corresponding author	Bernd J. Berauer | bjberauer@gmail.com
+Corresponding author:	Bernd J. Berauer | bjberauer@gmail.com
 
-Journal	Journal of Applied Ecology
+Journal:	Agronomy
 
-Submitted	25.06.2020
+Submitted:	03-19-2021 | Accepted: 05-04-2021
 
 _____________________
 This repository will be made public available with potential acceptance
